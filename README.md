@@ -1,29 +1,29 @@
-# 📣 Site de Contato — Agência de Publicidade Jovem
+# 🎨 Agência Octa — Site de Contato
 
-Projeto desenvolvido em React para uma empresa de publicidade jovem, com foco em um formulário de contato moderno e funcional. Atuei como Full Stack, cuidando tanto da parte técnica quanto do design, aplicando princípios de UX/UI e Design Thinking.
+Site desenvolvido em React para a Octa Agência, uma empresa de publicidade jovem. O foco do projeto foi criar uma página moderna, visual e objetiva, permitindo que novos clientes entrem em contato de forma rápida.
+Atuei como Full Stack e também fui responsável por toda a parte criativa e de design.
 
-# 🚀 Tecnologias
+🚀 Tecnologias
+<p align="left"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img alt="Agency" src="https://img.shields.io/badge/Octa%20Agência-Publicidade-6A5ACD?style=for-the-badge&logo=target&logoColor=white" /> </p>
 
-React
+# ⭐ Funcionalidades
 
-JavaScript / JSX
+Página de contato moderna e objetiva
 
-HTML & CSS
+Layout jovem, com foco em comunicação rápida
 
-Node.js / API
+Identidade visual criada do zero
 
-# 📬 Funcionalidades
+Formulário de envio de mensagens
 
-Formulário de contato responsivo
-
-Layout moderno e voltado ao público jovem
-
-Código organizado e escalável
+Visual limpo, criativo e responsivo
 
 # ▶️ Como rodar
+
 npm install
+
 npm start
 
-# 📌 Sobre o projeto
+# 📌 Resumo
 
-Criado para oferecer uma experiência simples, visual e eficiente para novos clientes entrarem em contato com a agência.
+Criado para representar a essência da Octa Agência, unindo código, criatividade e design para criar uma experiência simples, visual e eficiente.
