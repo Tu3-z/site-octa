@@ -1,12 +1,29 @@
-# React + Vite
+# 📣 Site de Contato — Agência de Publicidade Jovem
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto desenvolvido em React para uma empresa de publicidade jovem, com foco em um formulário de contato moderno e funcional. Atuei como Full Stack, cuidando tanto da parte técnica quanto do design, aplicando princípios de UX/UI e Design Thinking.
 
-Currently, two official plugins are available:
+# 🚀 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React
 
-## Expanding the ESLint configuration
+JavaScript / JSX
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+HTML & CSS
+
+Node.js / API
+
+# 📬 Funcionalidades
+
+Formulário de contato responsivo
+
+Layout moderno e voltado ao público jovem
+
+Código organizado e escalável
+
+# ▶️ Como rodar
+npm install
+npm start
+
+# 📌 Sobre o projeto
+
+Criado para oferecer uma experiência simples, visual e eficiente para novos clientes entrarem em contato com a agência.
